@@ -1,9 +1,11 @@
-package com.example.inventory_management_system;
+package com.example.ims;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.autoconfigure.domain.EntityScan;
 
 @SpringBootApplication
+@EntityScan("com.example.ims")
 public class InventoryManagementSystemApplication {
 
 	public static void main(String[] args) {
