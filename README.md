@@ -1,8 +1,9 @@
 Inventory Management System
 
-Spring-Boott: 3.4.3 version
-Java Version: 17
-Postgres: 15
+Versions:
+1. Spring-Boott: 3.4.3 version
+2. Java Version: 17
+3. Postgres: 15
 
 
 How to run:
